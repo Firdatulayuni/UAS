@@ -15,7 +15,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.decomposition import PCA
 
 
-st.title("Aplikasi DATA MINING")
+st.title("PREDIKSI DIABETES")
 
 st.write("Firdatul A'yuni/210411100144/PENAMBANGAN DATA B")
 
