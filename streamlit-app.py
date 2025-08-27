@@ -228,7 +228,7 @@ with modelling:
           if model == all_model[i][ind_akurasi]:
                model_fit = all_model[i]
 
-     st.write("Hasil akurasi tertinggi dimiliki oleh " + str(model_fit[0]) + " dengan nilai akurasi " + str(round(model,4)*100) + "%")
+     #st.write("Hasil akurasi tertinggi dimiliki oleh " + str(model_fit[0]) + " dengan nilai akurasi " + str(round(model,4)*100) + "%")
 
     # KNN dengan PCA
      st.header("KNN dengan PCA")
